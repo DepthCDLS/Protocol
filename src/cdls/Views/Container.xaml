@@ -7,7 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:pages="clr-namespace:cdls.Views.Pages"
     xmlns:wpfui="http://schemas.lepo.co/wpfui/2022/xaml"
-    Title="Container"
+    Title="Protocol"
     Width="1100"
     Height="650"
     Style="{DynamicResource UiWindow}"
@@ -76,14 +76,14 @@
         <!--  You can put additional controls in the header, such as a search bar.  -->
         <!--  <wpfui:TitleBar.Header />  -->
         <wpfui:TitleBar
-            Title="WPF UI - Fluent design system"
+            Title="Protocol"
             Grid.Row="0"
             UseSnapLayout="True">
             <wpfui:TitleBar.Tray>
                 <wpfui:NotifyIcon
                     FocusOnLeftClick="True"
                     MenuOnRightClick="True"
-                    TooltipText="WPF UI">
+                    TooltipText="Protocol">
                     <wpfui:NotifyIcon.Menu>
                         <ContextMenu>
                             <MenuItem Header="Home" Tag="home" />

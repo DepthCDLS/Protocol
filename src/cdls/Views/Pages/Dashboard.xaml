@@ -41,7 +41,7 @@
                     <TextBlock
                         FontSize="28"
                         FontWeight="Bold"
-                        Text="The Witcher 3 Complete Edition" />
+                        Text="Cuddles Preview" />
                     <TextBlock
                         FontSize="18"
                         Opacity=".8"
@@ -207,7 +207,7 @@
                             Margin="14"
                             VerticalAlignment="Center"
                             RenderOptions.BitmapScalingMode="HighQuality"
-                            Source="pack://application:,,,/Resources/wpfui.png" />
+                            Source="https://raw.githubusercontent.com/DepthCDLS/Protocol/main/src/cdls/Assets/AppTiles/AppTile.targetsize-tiny.png" />
                         <TextBlock
                             Grid.Row="0"
                             FontSize="16"
