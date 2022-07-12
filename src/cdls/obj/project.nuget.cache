@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyPV5Q4tmF4o7yyHEw79AL4VbHHxbg5kiwgn3HTk6ue6l7ykUPWKQcyVxsIhebNtzd4n+xO7szc1drbOibKOoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jfrit\\source\\repos\\Depth\\Protocol\\src\\cdls\\cdls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jfrit\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\jfrit\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\jfrit\\.nuget\\packages\\wpf-ui\\1.2.7\\wpf-ui.1.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}
