@@ -23,7 +23,7 @@
             Height="400"
             CornerRadius="8,0,0,0">
             <Border.Background>
-                <ImageBrush ImageSource="/CDLS/Assets/OOBE/Hero.jpg" Stretch="UniformToFill" />
+                <ImageBrush ImageSource="https://raw.githubusercontent.com/DepthCDLS/Protocol/main/src/cdls/Assets/OOBE/Hero.jpg" Stretch="UniformToFill" />
             </Border.Background>
             <Border CornerRadius="8,0,0,0">
                 <Border.Background>
