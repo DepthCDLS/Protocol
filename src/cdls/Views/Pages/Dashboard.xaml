@@ -83,28 +83,17 @@
                             Margin="14"
                             VerticalAlignment="Center"
                             RenderOptions.BitmapScalingMode="HighQuality"
-                            Source="pack://application:,,,/Resources/wpfui.png" />
+                            Source="https://raw.githubusercontent.com/DepthCDLS/Protocol/main/src/cdls/Assets/AppTiles/AppTile.targetsize-large.png" />
                         <TextBlock
                             Grid.Row="0"
                             FontSize="16"
                             FontWeight="Bold"
-                            Text="WPF UI" />
+                            Text="Cuddles" />
                         <TextBlock
                             Grid.Row="0"
                             FontSize="12"
                             Foreground="{DynamicResource TextFillColorTertiaryBrush}"
-                            Text="Windows Library" />
-                        <ui:Rating
-                            Margin="0,0,0,40"
-                            HorizontalAlignment="Left"
-                            FontSize="14"
-                            Foreground="{DynamicResource TextFillColorTertiaryBrush}"
-                            Value="4" />
-                        <TextBlock
-                            Grid.Row="0"
-                            FontSize="12"
-                            FontWeight="Bold"
-                            Text="Installed" />
+                            Text="PREVIEW" />
                     </StackPanel>
                 </ui:Card>
 
@@ -119,23 +108,12 @@
                             Grid.Row="0"
                             FontSize="16"
                             FontWeight="Bold"
-                            Text="WPF UI" />
+                            Text="Turtel" />
                         <TextBlock
                             Grid.Row="0"
                             FontSize="12"
                             Foreground="{DynamicResource TextFillColorTertiaryBrush}"
-                            Text="Windows Library" />
-                        <ui:Rating
-                            Margin="0,0,0,40"
-                            HorizontalAlignment="Left"
-                            FontSize="14"
-                            Foreground="{DynamicResource TextFillColorTertiaryBrush}"
-                            Value="4" />
-                        <TextBlock
-                            Grid.Row="0"
-                            FontSize="12"
-                            FontWeight="Bold"
-                            Text="Installed" />
+                            Text="COMING SOON" />
                     </StackPanel>
                 </ui:Card>
 
@@ -150,23 +128,12 @@
                             Grid.Row="0"
                             FontSize="16"
                             FontWeight="Bold"
-                            Text="WPF UI" />
+                            Text="Cube" />
                         <TextBlock
                             Grid.Row="0"
                             FontSize="12"
                             Foreground="{DynamicResource TextFillColorTertiaryBrush}"
-                            Text="Windows Library" />
-                        <ui:Rating
-                            Margin="0,0,0,40"
-                            HorizontalAlignment="Left"
-                            FontSize="14"
-                            Foreground="{DynamicResource TextFillColorTertiaryBrush}"
-                            Value="4" />
-                        <TextBlock
-                            Grid.Row="0"
-                            FontSize="12"
-                            FontWeight="Bold"
-                            Text="Installed" />
+                            Text="COMING SOON" />
                     </StackPanel>
                 </ui:Card>
 
@@ -181,7 +148,7 @@
                             Grid.Row="0"
                             FontSize="16"
                             FontWeight="Bold"
-                            Text="WPF UI" />
+                            Text="e" />
                         <TextBlock
                             Grid.Row="0"
                             FontSize="12"

@@ -41,6 +41,11 @@
                         Icon="Home24"
                         Page="{x:Type pages:Dashboard}"
                         PageTag="dashboard" />
+                    <wpfui:NavigationItem
+                        Content="Extra"
+                        Icon="CalendarDay24"
+                        Page="{x:Type pages:Dashboard}"
+                        PageTag="dashboard" />
                 </wpfui:NavigationStore.Items>
                 <wpfui:NavigationStore.Footer>
                     <wpfui:NavigationItem
